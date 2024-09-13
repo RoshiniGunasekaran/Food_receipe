@@ -1,0 +1,13 @@
+# Dependency directories
+node_modules/
+client/node_modules/
+
+# Production files
+build/
+client/build/
+
+# Environment variables
+server/.env
+
+# Logs
+*.log
